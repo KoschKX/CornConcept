@@ -1,0 +1,31 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material6515707
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.490000 0.490000 0.490000
+Ns 83.552750
+illum 2
+d 1.000000
+map_Ka D:/Programming/BiminyIsland/3D/Clothing/Textures/Ignacio-PuffyShirt-trimming_yellow.jpg
+map_Kd D:/Programming/BiminyIsland/3D/Clothing/Textures/Ignacio-PuffyShirt-trimming_yellow.jpg
+newmtl Material6515699
+Ka 0.068569 0.000000 0.000000
+Kd 0.266667 0.000000 0.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl Material6515703
+Ka 0.000000 0.033276 0.033276
+Kd 0.000000 0.129412 0.129412
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl Material6515713
+Ka 0.257132 0.192848 0.000000
+Kd 1.000000 0.749996 0.000000
+Ks 0.490000 0.490000 0.490000
+Ns 83.552750
+illum 2
+d 1.000000

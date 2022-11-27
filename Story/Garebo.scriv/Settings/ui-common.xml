@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIStates>
+    <Binder Show="Yes">
+        <ShowCollections>No</ShowCollections>
+        <SelectedCollection>0</SelectedCollection>
+        <SubdocumentCounts>No</SubdocumentCounts>
+        <ExpandedItems>
+            <ItemID>4A1D6B18-0952-42EB-A487-D17915DD3BA1</ItemID>
+            <ItemID>06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</ItemID>
+            <ItemID>6830B6AC-686B-4370-A979-2FD1D7288BDA</ItemID>
+            <ItemID>669D7B65-8096-4EFD-A0E2-6BDE8C1E3585</ItemID>
+            <ItemID>F2DF7FDE-46C4-4962-97F3-128A46433573</ItemID>
+        </ExpandedItems>
+        <Selection>
+            <ItemID>2BEEDD32-30BA-48DF-8E7C-ADD6EF7540A4</ItemID>
+        </Selection>
+        <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
+    </Binder>
+    <Inspector Show="Yes" View="Notes">
+        <ShowProjectBookmarks>No</ShowProjectBookmarks>
+        <ShowSimilarTexts>No</ShowSimilarTexts>
+        <Collapse>CustomMetaData</Collapse>
+        <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
+    </Inspector>
+    <Split>None</Split>
+    <BinderAffects>Current</BinderAffects>
+    <Labels>
+        <Binder FullWidth="No">No</Binder>
+        <Icons>No</Icons>
+        <IndexCards>No</IndexCards>
+        <OutlinerRows>No</OutlinerRows>
+        <ScriveningsTitles>No</ScriveningsTitles>
+    </Labels>
+    <Corkboards>
+        <LabelIndicators>Yes</LabelIndicators>
+        <Stamps>No</Stamps>
+        <Keywords>No</Keywords>
+        <Numbers Restart="No">No</Numbers>
+        <SnapToGrid>No</SnapToGrid>
+        <BlankCardsAsGhosts>No</BlankCardsAsGhosts>
+    </Corkboards>
+    <Text>
+        <ShowFormatBar>Yes</ShowFormatBar>
+        <UseVerticalLayout>No</UseVerticalLayout>
+        <ShowScriveningsTitles>No</ShowScriveningsTitles>
+        <ShowInvisibles>No</ShowInvisibles>
+        <RevisionMode>0</RevisionMode>
+        <TextChecking>
+            <Spelling>Yes</Spelling>
+            <Grammar>No</Grammar>
+            <SmartQuotes>Yes</SmartQuotes>
+            <SmartDashes>Yes</SmartDashes>
+        </TextChecking>
+    </Text>
+    <FullScreen>
+        <ShowRuler>No</ShowRuler>
+        <PageLayout Facing="No">No</PageLayout>
+        <TypewriterScrolling>Yes</TypewriterScrolling>
+    </FullScreen>
+    <Editors Primary="Editor1" Active="Editor2">
+        <Editor1>
+            <View>
+                <ShowHeader>Yes</ShowHeader>
+                <ShowFooter>Yes</ShowFooter>
+                <GroupsViewMode>Corkboard</GroupsViewMode>
+                <CurrentViewMode>Single</CurrentViewMode>
+                <SelectionAffects>Current</SelectionAffects>
+                <Content/>
+                <NavigationHistory CurrentIndex="0">
+                    <HistoryItem Type="BinderItems" ViewMode="Single">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                </NavigationHistory>
+            </View>
+            <Text>
+                <ShowRuler>No</ShowRuler>
+                <PageLayout Facing="No">No</PageLayout>
+                <TypewriterScrolling>No</TypewriterScrolling>
+                <LineNumbers Interval="1">No</LineNumbers>
+                <Selection>0,0</Selection>
+            </Text>
+            <Outliner>
+                <Columns>
+                    <ColID>title</ColID>
+                    <ColID>label</ColID>
+                    <ColID>status</ColID>
+                    <ColID>sectionType</ColID>
+                </Columns>
+                <TitlesOnly>No</TitlesOnly>
+                <HideIcons>No</HideIcons>
+                <ShowNumbers>No</ShowNumbers>
+                <KeywordsAsChips>No</KeywordsAsChips>
+                <FixedRowHeights>No</FixedRowHeights>
+            </Outliner>
+            <Corkboard>
+                <CardsAcross>-1</CardsAcross>
+                <KeywordChips>5</KeywordChips>
+                <SizeCardsToFit>No</SizeCardsToFit>
+                <CardHeightRatio>0.6666</CardHeightRatio>
+                <SectionsArrangement>Wrap</SectionsArrangement>
+                <LabelThreadsUseColumns>No</LabelThreadsUseColumns>
+            </Corkboard>
+            <Copyholder PreferredOrientation="Vertical" VerticalPos="Right" HorizontalPos="Bottom">
+                <Content></Content>
+                <Text>
+                    <ShowRuler>No</ShowRuler>
+                    <PageLayout Facing="No">No</PageLayout>
+                    <TypewriterScrolling>No</TypewriterScrolling>
+                    <LineNumbers Interval="1">No</LineNumbers>
+                </Text>
+            </Copyholder>
+        </Editor1>
+        <Editor2>
+            <View>
+                <ShowHeader>Yes</ShowHeader>
+                <ShowFooter>Yes</ShowFooter>
+                <GroupsViewMode>Corkboard</GroupsViewMode>
+                <CurrentViewMode>Corkboard</CurrentViewMode>
+                <SelectionAffects>None</SelectionAffects>
+                <Content>
+                    <ItemID>2BEEDD32-30BA-48DF-8E7C-ADD6EF7540A4</ItemID>
+                </Content>
+<<<<<<< Updated upstream
+                <NavigationHistory CurrentIndex="52">
+=======
+                <NavigationHistory CurrentIndex="31">
+>>>>>>> Stashed changes
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">9464D2C8-73CC-42F9-8413-FAC4497614EA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">6830B6AC-686B-4370-A979-2FD1D7288BDA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">FFB2D489-3E8D-4274-AC87-4BFADF9B2A22</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">9464D2C8-73CC-42F9-8413-FAC4497614EA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">FFB2D489-3E8D-4274-AC87-4BFADF9B2A22</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">9464D2C8-73CC-42F9-8413-FAC4497614EA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">9464D2C8-73CC-42F9-8413-FAC4497614EA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">9464D2C8-73CC-42F9-8413-FAC4497614EA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">7048F921-FAF1-47DC-83A7-F4EBDCA39851</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">633E5B79-6400-4D35-8736-C8C7927D4772</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">669D7B65-8096-4EFD-A0E2-6BDE8C1E3585</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">F2DF7FDE-46C4-4962-97F3-128A46433573</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">4A1D6B18-0952-42EB-A487-D17915DD3BA1</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">F2DF7FDE-46C4-4962-97F3-128A46433573</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">4A1D6B18-0952-42EB-A487-D17915DD3BA1</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+<<<<<<< Updated upstream
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">633E5B79-6400-4D35-8736-C8C7927D4772</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B39F5845-B4C8-4805-8825-BD8FD9A00EFC</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">6F7AEC92-A6F7-41B3-BD6F-54B76E9B440A</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">7048F921-FAF1-47DC-83A7-F4EBDCA39851</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">9464D2C8-73CC-42F9-8413-FAC4497614EA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">6F7AEC92-A6F7-41B3-BD6F-54B76E9B440A</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B39F5845-B4C8-4805-8825-BD8FD9A00EFC</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">633E5B79-6400-4D35-8736-C8C7927D4772</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">C86A957D-7817-4F92-BDD4-D4FC04F43865</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">D2B1E2B9-C0BD-4A47-91F1-B4C94D9ACC17</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">C86A957D-7817-4F92-BDD4-D4FC04F43865</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">7C644A77-B754-4426-AAE3-704C96B63984</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">B6EA30D2-E552-4ACC-BAF5-796106F7BBBF</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">142BDE19-9BAC-4D9E-A935-79792F6B4A05</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">42E0084F-14D5-4689-A3B4-B1B609E751A9</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">908DC13D-4A3A-4FF0-8BE4-F2DA9233FC55</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">CB864B93-AB10-45D4-AFF6-F3F34927AFC4</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">552F84F2-DF30-4069-A73F-1C774B924953</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">77941137-0DA3-470F-8555-72BF01BFCBEC</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">669D7B65-8096-4EFD-A0E2-6BDE8C1E3585</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">633E5B79-6400-4D35-8736-C8C7927D4772</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">6830B6AC-686B-4370-A979-2FD1D7288BDA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">FFB2D489-3E8D-4274-AC87-4BFADF9B2A22</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">6830B6AC-686B-4370-A979-2FD1D7288BDA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">633E5B79-6400-4D35-8736-C8C7927D4772</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">C86A957D-7817-4F92-BDD4-D4FC04F43865</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">D2B1E2B9-C0BD-4A47-91F1-B4C94D9ACC17</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">56A7E145-46C0-4DF2-861F-5FC27E6AAD53</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">C86A957D-7817-4F92-BDD4-D4FC04F43865</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">633E5B79-6400-4D35-8736-C8C7927D4772</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+=======
+                    <HistoryItem Type="BinderItems" ViewMode="Single">D2B1E2B9-C0BD-4A47-91F1-B4C94D9ACC17</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">C86A957D-7817-4F92-BDD4-D4FC04F43865</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">D2B1E2B9-C0BD-4A47-91F1-B4C94D9ACC17</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">FFB2D489-3E8D-4274-AC87-4BFADF9B2A22</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">69822417-D015-4BDD-90BD-18AAA6198D15</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">0043FEC4-CDE7-49D5-98BA-80DC5EEA2BAD</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">06C0455C-36DD-4F38-BB7B-F7DD2453A8A5</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">633E5B79-6400-4D35-8736-C8C7927D4772</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">C86A957D-7817-4F92-BDD4-D4FC04F43865</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Corkboard">2BEEDD32-30BA-48DF-8E7C-ADD6EF7540A4</HistoryItem>
+>>>>>>> Stashed changes
+                </NavigationHistory>
+            </View>
+            <Text>
+                <ShowRuler>No</ShowRuler>
+                <PageLayout Facing="No">No</PageLayout>
+                <TypewriterScrolling>No</TypewriterScrolling>
+                <LineNumbers Interval="1">No</LineNumbers>
+                <Selection>0,0</Selection>
+            </Text>
+            <Outliner>
+                <Columns>
+                    <ColID>title</ColID>
+                    <ColID>label</ColID>
+                    <ColID>status</ColID>
+                    <ColID>sectionType</ColID>
+                </Columns>
+                <TitlesOnly>No</TitlesOnly>
+                <HideIcons>No</HideIcons>
+                <ShowNumbers>Yes</ShowNumbers>
+                <KeywordsAsChips>No</KeywordsAsChips>
+                <FixedRowHeights>No</FixedRowHeights>
+            </Outliner>
+            <Corkboard>
+                <CardsAcross>-1</CardsAcross>
+                <KeywordChips>5</KeywordChips>
+                <SizeCardsToFit>No</SizeCardsToFit>
+                <CardHeightRatio>0.6666</CardHeightRatio>
+                <SectionsArrangement>Wrap</SectionsArrangement>
+                <LabelThreadsUseColumns>No</LabelThreadsUseColumns>
+            </Corkboard>
+            <Copyholder PreferredOrientation="Vertical" VerticalPos="Right" HorizontalPos="Bottom">
+                <Content></Content>
+                <Text>
+                    <ShowRuler>No</ShowRuler>
+                    <PageLayout Facing="No">No</PageLayout>
+                    <TypewriterScrolling>No</TypewriterScrolling>
+                    <LineNumbers Interval="1">No</LineNumbers>
+                </Text>
+            </Copyholder>
+        </Editor2>
+    </Editors>
+</UIStates>

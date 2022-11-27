@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="2.0" Identifier="F101AD8E-09AC-4698-9380-3580DC648872" Creator="SCRWIN-3.1.1.0" Device="DESKTOP-R5UEN0K" Modified="2022-07-08 00:27:28 +0200" ModID="4490581D-02A7-40F6-93A3-F758D3534701">
+    <Binder>
+        <BinderItem UUID="4A1D6B18-0952-42EB-A487-D17915DD3BA1" Type="DraftFolder" Created="2018-11-06 17:50:52 +0200" Modified="2022-07-08 00:13:31 +0200">
+            <Title>Script</Title>
+            <MetaData/>
+            <Children>
+                <BinderItem UUID="552F84F2-DF30-4069-A73F-1C774B924953" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Prelude - Ode to the Corn Man</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="CB864B93-AB10-45D4-AFF6-F3F34927AFC4" Type="Text" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                            <Title>Scene</Title>
+                            <MetaData>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="77941137-0DA3-470F-8555-72BF01BFCBEC" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Prologue - Don Fernando Takes a Dirt Nap</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="42E0084F-14D5-4689-A3B4-B1B609E751A9" Type="Text" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                            <Title>Monastery</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="908DC13D-4A3A-4FF0-8BE4-F2DA9233FC55" Type="Text" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                            <Title>Nacho's House</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9B94B926-7EED-4D23-B60E-70EEAB615A28" Type="Text" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="CC45E4AF-14F6-4DE4-8E83-47A173D77249" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode One - Are We There Yet?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0C37E28F-8D15-4DFB-A51C-950369032F59" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Two - Marooned</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F5E9AB2B-14DE-4E2D-8C2B-F5AC67828F6C" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Three -</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="88B3CC5D-4E78-466F-A0D4-6A46756A0D8A" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Four - Gumbo Limbo</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="802FEE7A-26FA-4C4F-921B-661B3DED8939" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Five - The People at the Top of the Stairs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="7C644A77-B754-4426-AAE3-704C96B63984" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Six - Dust in the Wind</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B6A1591B-B371-48D8-9CC3-A140D551FB31" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Seven - It's a Jungle in Here!</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B6EA30D2-E552-4ACC-BAF5-796106F7BBBF" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Eight - Let's Undo the Time Warp</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="142BDE19-9BAC-4D9E-A935-79792F6B4A05" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Nine - The Mayor of Crazy Town</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F501F238-4CD5-4F07-8724-26943FADA79E" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Ten - Much Ado About Nunning</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="23976E93-4CE8-40E7-A30E-EC79AF230FBC" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Eleven - Who At the Gabbagoo?</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="432B4D17-AD3A-41C7-ACE4-45D0783AA646" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Episode Twelve - Look Ma, I'm Immortal!</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8781D05B-1694-4ECE-AF17-C002220292AD" Type="Folder" Created="2022-07-08 00:13:43 +0200" Modified="2022-07-08 00:13:43 +0200">
+                    <Title>Exodus - Mi Llamo es Mud (Don Fernando Gets His Revenge)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5" Type="Folder" Created="2018-11-06 17:50:52 +0200" Modified="2021-03-04 09:13:23 +0200">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateUUID>28AFDB37-2FF4-4BD4-A273-1AEFF4E9EAE4</DefaultChildTemplateUUID>
+            <Children>
+                <BinderItem UUID="633E5B79-6400-4D35-8736-C8C7927D4772" Type="Folder" Created="2022-07-07 23:49:33 +0200" Modified="2022-07-08 00:00:33 +0200">
+                    <Title>Protaganists</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="9464D2C8-73CC-42F9-8413-FAC4497614EA" Type="Text" Created="2022-07-07 23:37:05 +0200" Modified="2022-07-07 23:43:04 +0200">
+                            <Title>Don Ignacio</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>39,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7048F921-FAF1-47DC-83A7-F4EBDCA39851" Type="Text" Created="2022-07-07 23:43:52 +0200" Modified="2022-07-07 23:45:36 +0200">
+                            <Title>Juan</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>87,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6F7AEC92-A6F7-41B3-BD6F-54B76E9B440A" Type="Text" Created="2022-07-08 00:14:04 +0200" Modified="2022-07-08 00:19:27 +0200">
+                            <Title>Don Fernando</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B39F5845-B4C8-4805-8825-BD8FD9A00EFC" Type="Text" Created="2022-07-08 00:14:04 +0200" Modified="2022-07-08 00:19:32 +0200">
+                            <Title>Ismael</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="C86A957D-7817-4F92-BDD4-D4FC04F43865" Type="Folder" Created="2022-07-07 23:52:39 +0200" Modified="2022-07-07 23:57:16 +0200">
+                    <Title>NPCs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D2B1E2B9-C0BD-4A47-91F1-B4C94D9ACC17" Type="Text" Created="2022-07-08 00:14:19 +0200" Modified="2022-07-08 00:14:19 +0200">
+                            <Title>Monty</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="56A7E145-46C0-4DF2-861F-5FC27E6AAD53" Type="Text" Created="2022-07-08 00:14:19 +0200" Modified="2022-07-08 00:14:19 +0200">
+                            <Title>Three Little Indians</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0483855C-CBB8-4660-A792-752D63C4C598" Type="Text" Created="2022-07-08 00:14:19 +0200" Modified="2022-07-08 00:14:19 +0200">
+                            <Title>Guadalupe</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="6A428EB1-44B9-456D-B4C2-B9BCECDFB115" Type="Text" Created="2022-07-08 00:14:19 +0200" Modified="2022-07-08 00:14:19 +0200">
+                            <Title>Gordon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="2BEEDD32-30BA-48DF-8E7C-ADD6EF7540A4" Type="Folder" Created="2022-07-08 00:02:39 +0200" Modified="2022-07-08 00:02:55 +0200">
+                    <Title>Antagonists</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="144A403C-0174-4EC2-AD08-D424463A652C" Type="Text" Created="2022-07-08 00:14:10 +0200" Modified="2022-07-08 00:14:11 +0200">
+                            <Title>Ponce de Leon</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="83681D1C-8116-45FC-9C8B-96A9EB4BD6CD" Type="Text" Created="2022-07-08 00:14:11 +0200" Modified="2022-07-08 00:14:11 +0200">
+                            <Title>God</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0F3449C0-E1BB-4D82-8323-0C4385C385A4" Type="Text" Created="2022-07-08 00:14:11 +0200" Modified="2022-07-08 00:14:11 +0200">
+                            <Title>Death</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9FF00FFF-0F52-494A-BB8C-DB2B1D8C82BF" Type="Text" Created="2022-07-08 00:14:11 +0200" Modified="2022-07-08 00:14:11 +0200">
+                            <Title>Becerillo</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="485366A7-653C-4268-9601-A206AD0C8D52" Type="Text" Created="2022-07-08 00:14:11 +0200" Modified="2022-07-08 00:14:11 +0200">
+                            <Title>Great Puma</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7FEDCEBF-BFFF-4ADF-A6BF-A9CD314EECCC" Type="Text" Created="2022-07-08 00:14:11 +0200" Modified="2022-07-08 00:14:11 +0200">
+                            <Title>Spanky (Little Puma)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C75B1ECD-16C8-482A-AD7D-B93403B92EFA" Type="Text" Created="2022-07-08 00:14:11 +0200" Modified="2022-07-08 00:14:11 +0200">
+                            <Title>Fang</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="41DE113B-5564-4B5B-8728-B002FA577614" Type="Text" Created="2022-07-08 00:14:11 +0200" Modified="2022-07-08 00:14:11 +0200">
+                            <Title>Mafia</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E263BDDC-EF56-4C22-84FA-22A253C220A8" Type="Text" Created="2022-07-08 00:14:11 +0200" Modified="2022-07-08 00:14:11 +0200">
+                            <Title>Three Old Drunks</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection Caret="14">0,14</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="6830B6AC-686B-4370-A979-2FD1D7288BDA" Type="Folder" Created="2018-11-06 17:50:52 +0200" Modified="2022-07-08 00:25:24 +0200">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map)</IconFileName>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateUUID>0863BD1D-FA0F-4B8F-9B3F-3A0A2ACF174C</DefaultChildTemplateUUID>
+            <Children>
+                <BinderItem UUID="FFB2D489-3E8D-4274-AC87-4BFADF9B2A22" Type="Text" Created="2022-07-07 23:41:33 +0200" Modified="2022-07-08 00:25:40 +0200">
+                    <Title>Madeira</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0043FEC4-CDE7-49D5-98BA-80DC5EEA2BAD" Type="Text" Created="2022-07-08 00:25:44 +0200" Modified="2022-07-08 00:27:25 +0200">
+                    <Title>Ollantaytambo</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="15">0,15</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="69822417-D015-4BDD-90BD-18AAA6198D15" Type="Folder" Created="2018-11-06 17:50:52 +0200" Modified="2018-11-06 17:50:52 +0200">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Yellow Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem UUID="669D7B65-8096-4EFD-A0E2-6BDE8C1E3585" Type="ResearchFolder" Created="2018-11-06 17:50:52 +0200" Modified="2019-08-29 10:41:55 +0200">
+            <Title>Research</Title>
+            <MetaData/>
+        </BinderItem>
+        <BinderItem UUID="5C03DE09-C285-48ED-827F-78E62B7D0F72" Type="Folder" Created="2018-11-06 17:50:52 +0200" Modified="2018-11-06 17:50:52 +0200">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="28AFDB37-2FF4-4BD4-A273-1AEFF4E9EAE4" Type="Text" Created="2019-08-29 11:01:58 +0200" Modified="2019-08-29 11:01:58 +0200">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Characters (Character Sheet)</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="14">0,14</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0863BD1D-FA0F-4B8F-9B3F-3A0A2ACF174C" Type="Text" Created="2019-08-29 11:01:58 +0200" Modified="2019-08-29 11:01:58 +0200">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection Caret="15">0,15</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F2DF7FDE-46C4-4962-97F3-128A46433573" Type="TrashFolder" Created="2018-11-06 17:50:52 +0200" Modified="2019-08-29 10:41:55 +0200">
+            <Title>Trash</Title>
+            <MetaData/>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.941176 0.937255 0.956863">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="D2E24F2F-E4A2-49D0-BACA-26098774C8F9">Part Heading</Type>
+            <Type ID="417A6CCE-D4E1-44BA-9A8D-038360B4B905">Chapter Heading</Type>
+            <Type ID="9AFECE21-8C79-45E0-9B9F-D6D62A9729D3">Scene</Type>
+            <Type ID="5770D705-B9A4-4798-AAB1-B2C56190B02E">Chapter</Type>
+            <Type ID="DFBFB5B6-D47F-4913-9E23-FC3950C10171">Heading</Type>
+            <Type ID="4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D">Section</Type>
+            <Type ID="F3D99402-96E3-4558-A2BE-FB83286017C8">Front Matter</Type>
+            <Type ID="235F7C42-10F1-40AB-9FC5-19AA26EABA47">Table of Contents</Type>
+            <Type ID="EA9C9DBA-B644-4EBB-BDAD-621E5455275A">N/A</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>EA9C9DBA-B644-4EBB-BDAD-621E5455275A</Type>
+                <Type>417A6CCE-D4E1-44BA-9A8D-038360B4B905</Type>
+            </Folders>
+            <Containers>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+            </Containers>
+            <Files>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>4BA429EF-6143-4FB6-9B43-D4E6E4F0CE1D</Type>
+                <Type>9AFECE21-8C79-45E0-9B9F-D6D62A9729D3</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="7" Color="0.993500 0.701213 0.732586">Red</Label>
+            <Label ID="8" Color="0.995422 0.790951 0.652384">Orange</Label>
+            <Label ID="9" Color="0.997726 0.892729 0.652567">Yellow</Label>
+            <Label ID="10" Color="0.715862 0.948714 0.697688">Green</Label>
+            <Label ID="11" Color="0.702312 0.888273 0.974258">Blue</Label>
+            <Label ID="12" Color="0.957565 0.766751 0.999619">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="6">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectBookmarks>
+        <Bookmark BinderUUID="06C0455C-36DD-4F38-BB7B-F7DD2453A8A5"/>
+        <Bookmark BinderUUID="6830B6AC-686B-4370-A979-2FD1D7288BDA"/>
+        <Bookmark BinderUUID="69822417-D015-4BDD-90BD-18AAA6198D15"/>
+    </ProjectBookmarks>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2022-07-08 00:27:28 +0200"/>
+    </ProjectTargets>
+    <TemplateFolderUUID>5C03DE09-C285-48ED-827F-78E62B7D0F72</TemplateFolderUUID>
+    <BookmarksFolderUUID>69822417-D015-4BDD-90BD-18AAA6198D15</BookmarksFolderUUID>
+    <RecentWritingHistory Date="2022-07-08 00:00:00 +0200">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
